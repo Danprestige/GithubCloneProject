@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is a new feature.
-=======
-This ia a new feature
->>>>>>> c7a387978b2c5d5be81c41d9549218a2153bed03
+
